@@ -9,6 +9,7 @@
     ▲ ~ expo --version
     4.5.2
 
-# Error on
+# Error
 
+    expo install
     expo publish
